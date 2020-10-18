@@ -4,26 +4,39 @@
 		{
 			"id" : 26332027871,
 			"name" : "Träningslära 1+2",
-			"author" : {
-				"first_name" : "Anders",
-				"last_name" : "Dahl"
-			}
+			"author" : 
+			[
+				{
+					"first_name" : "Anders",
+					"last_name" : "Dahl"
+				}
+			]
 		},
 		{
 			"id" : 26332020556,
 			"name" : "Den Levande Litteraturen",
-			"author" : {
-				"first_name" : "Ulf",
-				"last_name" : "Jansson"
-			}
+			"author" : 
+			[
+				{
+					"first_name" : "Jansson",
+					"last_name" : "Sjöstedt"
+				}
+			]
 		},
 		{
 			"id" : 26332006486,
 			"name" : "Språket",
-			"author" : {
-				"first_name" : "Bengt",
-				"last_name" : "Sjöstedt"
-			}
+			"author" : 
+			[
+				{
+					"first_name" : "Bengt",
+					"last_name" : "Sjöstedt"
+				},
+				{
+					"first_name" : "Tomas",
+					"last_name" : "Jeppsson"
+				}
+			]
 		}
 	]
 }
