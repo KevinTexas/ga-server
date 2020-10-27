@@ -38,5 +38,19 @@
 				}
 			]
 		}
-	]
+    ],
+    "users" :
+    [
+        {
+            "id" : 123,
+            "first_name" : "Kevin",
+            "last_name" : "Kvissberg",
+            "lent_books" :
+            [
+                {
+                    "bookId" : 26332006486
+                }
+            ]
+        }
+    ]
 }
